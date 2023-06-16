@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Flexbox Three Column Preview]( https://www.frontendmentor.io/solutions/flexbox-three-column-preview-ROtGf_1fkG)
+- Live Site URL: [Live Site](https://flexbox-column-preview.netlify.app/)
 
 ## My process
 
